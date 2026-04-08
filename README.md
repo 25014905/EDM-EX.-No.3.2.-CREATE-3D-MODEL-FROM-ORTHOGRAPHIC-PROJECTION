@@ -42,7 +42,10 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-NAME
+![image](https://github.com/25014905/EDM-EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/blob/main/Screenshot%202026-04-08%20143246.png?raw=true)
+![image](https://github.com/25014905/EDM-EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/blob/main/Screenshot%202026-04-08%20143303.png?raw=true)
+
+NAME : MIRDULA D
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
